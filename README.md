@@ -1,2 +1,2 @@
-# CoolPlay-APP-Cursor
-Cursor 測試版本
+# rork-coolplay--app-clone
+Created by Rork
